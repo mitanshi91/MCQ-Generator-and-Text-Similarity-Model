@@ -1,10 +1,12 @@
 # MCQ-Generator-and-Text-Similarity-Model
 
-[Project Description](#desc)
-[Install](#install)
-[Code](#code)
-[Run](#run)
-[Data](#data)
+## Table of Contents
+
+1. [Project Description](#desc)
+2. [Install](#install)
+3. [Code](#code)
+4. [Run](#run)
+5. [Data](#data)
 
 <a name="desc"></a>
 ## Project Description
