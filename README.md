@@ -1,10 +1,10 @@
 # MCQ-Generator-and-Text-Similarity-Model
 
-1. [Project Description] (#desc)
-2. [Install] (#install)
-3. [Code] (#code)
-4. [Run] (#run)
-5. [Data] (#data)
+[Project Description](#desc)
+[Install](#install)
+[Code](#code)
+[Run](#run)
+[Data](#data)
 
 <a name="desc"></a>
 ## Project Description
@@ -81,15 +81,15 @@ The template code for Multiple Choice Question Generator is provided in the MCQG
 
 In a terminal or command window, run one of the following commands:
 
-ipython notebook MCQGenerator.ipynb
+$ ipython notebook MCQGenerator.ipynb
 
 or
 
-jupyter notebook MCQGenerator.ipynb
+$ jupyter notebook MCQGenerator.ipynb
 
 or open with Juoyter Lab
 
-jupyter lab
+$ jupyter lab
 
 This will open the Jupyter Notebook software and project file in your browser.
 
