@@ -76,22 +76,27 @@ Otherwise, you could execute the code on Google Colaboratory.
 <a name="code"></a>
 ## Code
 
-The template code for Multiple Choice Question Generator is provided in the MCQGenerator.py notebook file. The template code for the subjective answer score generator is provided in the TextSimilarity.py  You will also be required to use the included app.py Python file and the ‘text’ folder which consists of text used to assess the model, in order to complete your work. The ‘requirement’ text file consists of all the dependencies you would need in order to run this project in your system.
+The template code for Multiple Choice Question Generator is provided in the ``` MCQGenerator.py ``` notebook file. The template code for the subjective answer score generator is provided in the ``` TextSimilarity.py ```.  You will also be required to use the included ``` app.py ``` Python file and the ‘text’ folder which consists of text used to assess the model, in order to complete your work. The ‘requirement’ text file consists of all the dependencies you would need in order to run this project in your system.
 
 <a name="code"></a>
 ## Run
 
 In a terminal or command window, run one of the following commands:
 
-$ ipython notebook MCQGenerator.ipynb
-
+```
+ipython notebook MCQGenerator.ipynb
+```
 or
 
-$ jupyter notebook MCQGenerator.ipynb
+```
+jupyter notebook MCQGenerator.ipynb
+```
 
 or open with Juoyter Lab
 
-$ jupyter lab
+```
+jupyter lab
+```
 
 This will open the Jupyter Notebook software and project file in your browser.
 
